@@ -1,0 +1,51 @@
+.card{
+
+
+    height: 5rem;
+    width: 5rem;
+    border: 1px solid red;
+}
+
+
+.imgCom{
+
+    height: 6rem;
+    width: 6rem;
+    border-radius: 100%;
+    margin-top: 0.5rem;
+    animation: flipFromRightToLeft 1s ease-in-out; 
+    
+}
+
+.singleImgCom{
+    height: 8rem;
+    width: 8em;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #a04293;
+}
+
+.com{
+
+    font-size: 1rem;
+    color: #3f283d;
+    animation: slideInFromBottom 1.7s ease-out;
+}
+
+
+.singleOne{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+   
+    width: 36rem;
+    height: 10rem;
+}
+
+h6{
+    margin-left: 1rem;
+}
