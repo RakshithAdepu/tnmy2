@@ -62,26 +62,26 @@ const Home = () => {
             <div className="icons">
               <a
                 href="https://www.facebook.com/thanmai.ganji.9?mibextid=ZbWKwL"
-                target="_blank"
+                target="_blank" rel="noopener noreferrer"
               >
                 {" "}
                 <FaFacebook className="iconSingle" />
               </a>
               <a
                 href="https://www.instagram.com/thanmaiganji?igsh=dzFzNTd5ZHJuYmdy"
-                target="_blank"
+                target="_blank" rel="noopener noreferrer"
               >
                 {" "}
                 <FaInstagram className="iconSingle" />
               </a>
               <a
                 href="https://www.linkedin.com/in/thanmai-ganji-0b2394213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-                target="_blank"
+                target="_blank" rel="noopener noreferrer"
               >
                 {" "}
                 <TiSocialLinkedin className="iconSingle" />
               </a>
-              <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+              <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noopener noreferrer">
                 {" "}
                 <MdEmail className="iconSingle" />
               </a>
